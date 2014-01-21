@@ -2,4 +2,3 @@ MyService
 =========
 
 Sample Windows Service
-----------------------
