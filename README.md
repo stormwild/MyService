@@ -1,0 +1,4 @@
+MyService
+=========
+
+Sample Windows Service
